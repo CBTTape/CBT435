@@ -1,0 +1,17 @@
+2023-04-03 00:15:47.109393 - Initialized conversion of CBT435
+2023-04-03 00:15:47.273433 - Received CBT.V504.FILE435.PDS from FILE435.XMI 
+2023-04-03 00:15:47.276119 - Found @FILE435.txt (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/@FILE435
+2023-04-03 00:15:47.277067 - Found @README.txt (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/@README
+2023-04-03 00:15:47.278174 - Found ALIST.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/ALIST
+2023-04-03 00:15:47.279342 - Found BLOX.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/BLOX
+2023-04-03 00:15:47.280417 - Found DFLTHLQ.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/DFLTHLQ
+2023-04-03 00:15:47.281468 - Found FCXREF.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/FCXREF
+2023-04-03 00:15:47.282394 - Found FIRSTIME.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/FIRSTIME
+2023-04-03 00:15:47.283471 - Found FTINIT.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/FTINIT
+2023-04-03 00:15:47.284433 - Found LA.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/LA
+2023-04-03 00:15:47.285483 - Found MEMBERS.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/MEMBERS
+2023-04-03 00:15:47.286376 - Found SQRT.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/SQRT
+2023-04-03 00:15:47.287466 - Found SQUASH.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/SQUASH
+2023-04-03 00:15:47.288550 - Found TBLOOK.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/TBLOOK
+2023-04-03 00:15:47.289522 - Found TRAPOUT.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/TRAPOUT
+2023-04-03 00:15:47.290426 - Found X2B.rexx (text/plain) in CBT.V504.FILE435.PDS, moved to PDS/X2B
